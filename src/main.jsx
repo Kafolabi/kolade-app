@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Category from "./components/category.jsx";
+import Category from "./components/Category.jsx";
 import Users from "./components/Users.jsx";
 import Services from "./components/Services.jsx";
 import UserDetails from "./components/UserDetails.jsx";
